@@ -63,4 +63,4 @@ Matrix must be invertible mod 26.
 
 ## Credits
 - Developed as a course project.
-- Assisted by LLM applications [ChatGPT and Gemini] for refactoring and packaging guidance (as permitted by the brief).
+- Assisted by LLM applications [ChatGPT and Gemini] for refactoring and packaging guidance.
