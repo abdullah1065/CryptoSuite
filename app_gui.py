@@ -127,7 +127,7 @@ class App(tk.Tk):
 
         # default key hints
         if cipher == "Caesar":
-            hint = "Caesar key: integer shift (e.g., 5)"
+            hint = "Caesar key: integer shift (e.g., 3)"
         elif cipher == "Affine":
             hint = "Affine key: a b (e.g., 5 8), with gcd(a,26)=1"
         elif cipher == "Playfair":
