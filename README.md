@@ -34,7 +34,7 @@ python -m tkinter
 If a small window opens, Tkinter is installed.
 
 **Windows:** The python.org installer typically includes Tkinter.  
-**macOS:** The python.org installer typically includes Tkinter. Some minimal/alternate Python installs may not include it—if GUI doesn't start, use the CLI version.
+**macOS:** The python.org installer typically includes Tkinter. Some minimal/alternate Python installs may not include it. If GUI doesn't start, use the CLI version.
 
 ## How to Run (GUI)
 ```bash
