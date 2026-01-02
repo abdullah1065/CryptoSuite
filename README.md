@@ -1,4 +1,4 @@
-# CryptoSuite - Encryption/Decryption Tool (GUI + CLI)
+# CryptoSuite - Encryption/Decryption Tool and Hill Known-Plaintext Cracker (GUI + CLI)
 
 This repository implements four classic cryptosystems with both **encryption** and **decryption**:
 
